@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('boligApp')
+angular.module('yiiApp')
   .controller('MainCtrl', function ($scope) {
     $scope.awesomeThings = [
       'HTML5 Boilerplate',

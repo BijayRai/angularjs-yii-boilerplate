@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('boligApp', [])
+angular.module('yiiApp', [])
   .config(function ($routeProvider, $locationProvider) {
     $routeProvider
       .when('/', {
